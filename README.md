@@ -4,6 +4,9 @@
 ## <a name="description">Project Description </a>
 CoinKeep was inspired by the need for a comprehensive and user-friendly platform to help individuals take control of their financial well-being. With so many people struggling to manage budgets, track expenses, and stay updated on investment trends, I wanted to create a solution that integrates all these tools into a single, accessible dashboard. My goal was to provide users with an easy way to monitor their financial status, make informed decisions, and optimize their spending habits using AI-driven insights. CoinKeep is designed to empower users to build better financial habits and achieve their savings goals effortlessly.
 
+##<a name="live-demo">Live Demo</a>
+Live Demo: https://coin-keep-ten.vercel.app
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
